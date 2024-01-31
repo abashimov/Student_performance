@@ -1,4 +1,6 @@
 Executive Summary
+
+
 The project focuses on understanding the factors influencing success in Mathematics and
 Portuguese subjects among secondary education students in two Portuguese schools. The
 analysis involves building predictive and classification models for G1.Math, addressing specific
